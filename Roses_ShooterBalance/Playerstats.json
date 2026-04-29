@@ -1,0 +1,15 @@
+{
+    "playerStats" : {
+        "hp" : 100,
+        "Armor" : 10, 
+        "Regen" : 0.0
+    },
+
+    "Rifle" : {
+        "Damage" : 5,
+        "BulletsxSecond" : 1,
+        "Magazing" : 10,
+        "SpecialAtribute" : null, 
+        "active" : true
+    }
+}
